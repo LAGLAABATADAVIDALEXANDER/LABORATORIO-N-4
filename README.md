@@ -84,6 +84,11 @@ se realizan los calculos
 
 #### Resultados y discusión de resultados 
 
+![image](https://user-images.githubusercontent.com/116814386/209351363-40bde9aa-97a9-4fbd-afa1-222a1986c7bf.png)
+
+Comprobamos el teorema de superposicion 
+
+![image](https://user-images.githubusercontent.com/116814386/209351306-7799f8fb-9a69-4524-8cd2-f8fd721e11ea.png)
 
 #### Conclusiones 
 
